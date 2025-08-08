@@ -4,9 +4,9 @@
 
 ---
 
-![Estado](Https://img.shields.io/badge/Estado-Terminado-brightgreen)
-![Lenguaje](Https://img.shields.io/badge/JavaScript-ES6-yellow)
-![Licencia](Https://img.shields.io/badge/Licencia-MIT-blue)
+![Estado](https://img.shields.io/badge/Estado-Terminado-brightgreen)
+![Lenguaje](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Licencia](https://img.shields.io/badge/Licencia-MIT-blue)
 
 ---
 
